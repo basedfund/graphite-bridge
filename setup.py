@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'Test'
 
 # Setting up
 setup(
-    name="vidstream",
+    name="graphite-bridge",
     version=VERSION,
     author="Jonathan Wengel",
     author_email="<jonthan.anodaram@gmail.com>",
