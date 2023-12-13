@@ -1,2 +1,1 @@
 from graphite_bridge.server import GraphiteServerConnector
-from graphite_bridge.exchanges.router import ExchangeRouter
