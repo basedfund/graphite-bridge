@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.8'
+VERSION = '0.1.0'
 DESCRIPTION = 'Graphite Bridge'
 LONG_DESCRIPTION = 'Graphite Bridge'
 
