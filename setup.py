@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 DESCRIPTION = 'Graphite Bridge'
 LONG_DESCRIPTION = 'Graphite Bridge'
 
@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
-    install_requires=['websocket-client'],
+    install_requires=['websocket-client', 'requests'],
     keywords=['python', 'graphite', 'trading', 'cryptocurrency'],
     classifiers=[
         "Development Status :: 1 - Planning",
